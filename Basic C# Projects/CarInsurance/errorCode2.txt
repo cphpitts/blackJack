@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CarInsurance
 {
@@ -11,14 +11,14 @@ namespace CarInsurance
             int age = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("Have you ever had a DUI > (yes or no):");
             string dui = Console.ReadLine();
-            bool dui_bool = true;
+            
             if (dui == "yes" || dui == "true")
             {
-                dui_bool = true;
+                bool dui_bool = true;
             }
             else
             {
-                dui_bool = false;
+                bool dui_bool = false;
             }
             Console.WriteLine("How many speeding tickets do you have?");
             int tickets = Convert.ToInt16(Console.ReadLine());
