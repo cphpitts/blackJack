@@ -1,0 +1,7 @@
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\WhileExercise\bin\Debug\WhileExercise.exe.config
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\WhileExercise\bin\Debug\WhileExercise.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\WhileExercise\bin\Debug\WhileExercise.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\WhileExercise\obj\Debug\WhileExercise.csprojAssemblyReference.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\WhileExercise\obj\Debug\WhileExercise.csproj.CoreCompileInputs.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\WhileExercise\obj\Debug\WhileExercise.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\WhileExercise\obj\Debug\WhileExercise.pdb
