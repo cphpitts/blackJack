@@ -45,6 +45,7 @@ namespace OperatorExercise
             Console.WriteLine("The remainder of " + rem_Var + "/7 is " + rem_Result + "\n");
 
             // Final Read
+            Console.WriteLine("Thank you for using Math-Bot 5000");
             Console.ReadLine();
 
         }
