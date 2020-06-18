@@ -1,0 +1,7 @@
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\obj\Debug\TwentyOne.pdb
