@@ -1,0 +1,7 @@
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\SuperClass Exercise\bin\Debug\SuperClass Exercise.exe.config
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\SuperClass Exercise\bin\Debug\SuperClass Exercise.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\SuperClass Exercise\bin\Debug\SuperClass Exercise.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\SuperClass Exercise\obj\Debug\SuperClass Exercise.csprojAssemblyReference.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\SuperClass Exercise\obj\Debug\SuperClass Exercise.csproj.CoreCompileInputs.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\SuperClass Exercise\obj\Debug\SuperClass Exercise.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\SuperClass Exercise\obj\Debug\SuperClass Exercise.pdb

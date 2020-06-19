@@ -22,9 +22,7 @@ namespace TwentyOne
             {
                 foreach (string suit in Suits)
                 {
-                    Card card = new Card();
-                    card.Face = face;
-                    card.Suit = suit;
+                    Card card = new Card() { Face = face, Suit = suit };
                     Cards.Add(card);
                 }
             }            
