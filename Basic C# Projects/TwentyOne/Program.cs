@@ -13,7 +13,7 @@ namespace TwentyOne
             Deck deck = new Deck();
             //deck = Shuffle(deck);
             int timesShuffled;
-            deck = Shuffle(deck: deck, out timesShuffled, times: 3);
+            deck = Shuffle(deck: deck, out timesShuffled);
 
 
             foreach (Card card in deck.Cards)
