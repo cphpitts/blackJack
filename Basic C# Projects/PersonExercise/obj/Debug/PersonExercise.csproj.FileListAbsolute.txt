@@ -4,3 +4,4 @@ C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\PersonExercise
 C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\PersonExercise\obj\Debug\PersonExercise.csproj.CoreCompileInputs.cache
 C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\PersonExercise\obj\Debug\PersonExercise.exe
 C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\PersonExercise\obj\Debug\PersonExercise.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\PersonExercise\obj\Debug\PersonExercise.csprojAssemblyReference.cache

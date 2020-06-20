@@ -12,6 +12,10 @@ namespace PersonExercise
         {
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
             employee.SayName();
+            employee.Quit();
+
+            IQuittable employee1 = new Employee() { firstName = "Bob", lastName = "Jones" };
+            employee1.Quit();
 
             Console.ReadLine();
         }
