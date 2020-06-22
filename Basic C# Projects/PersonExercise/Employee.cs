@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace PersonExercise
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
+        public List<T> Thing { get; set; }
 
         public override void SayName()
         {
@@ -20,11 +21,11 @@ namespace PersonExercise
             Console.WriteLine("{0} {1} has left the building", firstName, lastName);
         }
 
-        public static bool operator== (Employee employee1, Employee employee2)
+        public static bool operator== (Employee<T> employee1, Employee<T> employee2)
         {
             return (employee1.Id == employee2.Id);
         }
-        public static bool operator!= (Employee employee1, Employee employee2)
+        public static bool operator!= (Employee<T> employee1, Employee<T> employee2)
         {
             return (employee1.Id == employee2.Id);
         }
