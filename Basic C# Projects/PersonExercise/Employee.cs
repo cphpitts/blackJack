@@ -19,5 +19,14 @@ namespace PersonExercise
         {
             Console.WriteLine("{0} {1} has left the building", firstName, lastName);
         }
+
+        public static bool operator== (Employee employee1, Employee employee2)
+        {
+            return (employee1.Id == employee2.Id);
+        }
+        public static bool operator!= (Employee employee1, Employee employee2)
+        {
+            return (employee1.Id == employee2.Id);
+        }
     }
 }
