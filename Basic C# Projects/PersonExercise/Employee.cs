@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace PersonExercise
 {
-    public class Employee<T> : Person, IQuittable
+    public class Employee<T> : Person, IQuittable, IEmployee
     {
         public int Id { get; set; }
         public List<T> Thing { get; set; }
 
         public override void SayName()
         {
-            Console.WriteLine("{0} {1}", firstName, lastName);
+            Console.WriteLine("{0} {1}", FirstName, LastName);
         }
 
         public void Quit()
         {
-            Console.WriteLine("{0} {1} has left the building", firstName, lastName);
+            Console.WriteLine("{0} {1} has left the building", FirstName, LastName);
         }
 
         public static bool operator== (Employee<T> employee1, Employee<T> employee2)
