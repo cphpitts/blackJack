@@ -16,7 +16,12 @@ namespace enumExercise
             {
                 if (Enum.IsDefined(typeof(Name), today))
                 {
+                    Name date;
+                    Enum.TryParse<Name>(today, out date);
                     Console.WriteLine("That's great. Have a nice day.");
+                    int dayofWeek = ((int)date) + 1;
+                    Console.WriteLine("Its the {0} day of the week.", dayofWeek);
+                    Console.WriteLine("");
                 }
                 else
                 {

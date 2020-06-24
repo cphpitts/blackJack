@@ -5,3 +5,10 @@ C:\Users\cphpi\source\repos\enumExercise\obj\Debug\enumExercise.csprojAssemblyRe
 C:\Users\cphpi\source\repos\enumExercise\obj\Debug\enumExercise.csproj.CoreCompileInputs.cache
 C:\Users\cphpi\source\repos\enumExercise\obj\Debug\enumExercise.exe
 C:\Users\cphpi\source\repos\enumExercise\obj\Debug\enumExercise.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\enumExercise\obj\Debug\enumExercise.csprojAssemblyReference.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\enumExercise\obj\Debug\enumExercise.csproj.CoreCompileInputs.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\enumExercise\obj\Debug\enumExercise.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\enumExercise\obj\Debug\enumExercise.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\enumExercise\bin\Debug\enumExercise.exe.config
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\enumExercise\bin\Debug\enumExercise.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\enumExercise\bin\Debug\enumExercise.pdb

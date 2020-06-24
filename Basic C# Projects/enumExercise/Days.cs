@@ -12,12 +12,12 @@ namespace enumExercise
     }
     public enum Name
     {
+        Sunday,
         Monday,
         Tuesday,
         Wednesday,
         Thursday,
         Friday,
-        Saturday,
-        Sunday
+        Saturday
     }
 }
