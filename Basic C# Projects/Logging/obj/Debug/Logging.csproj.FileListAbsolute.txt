@@ -1,0 +1,7 @@
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Logging\bin\Debug\Logging.exe.config
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Logging\bin\Debug\Logging.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Logging\bin\Debug\Logging.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Logging\obj\Debug\Logging.csprojAssemblyReference.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Logging\obj\Debug\Logging.exe
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Logging\obj\Debug\Logging.pdb
