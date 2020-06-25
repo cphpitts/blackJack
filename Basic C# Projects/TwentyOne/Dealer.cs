@@ -17,10 +17,10 @@ namespace TwentyOne
         {
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString());
-            Console.WriteLine(card);
+            Console.WriteLine(card + "\n");
             using (StreamWriter file = new StreamWriter(@"C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\TwentyOne\log\cardLog.txt", true))
             {
-                file.WriteLine(card);
+                file.WriteLine("{0}: {1}", DateTime.Now, card);
             }
             Deck.Cards.RemoveAt(0);
         }
