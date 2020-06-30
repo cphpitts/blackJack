@@ -1,0 +1,6 @@
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Casino\bin\Debug\Casino.dll
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Casino\bin\Debug\Casino.pdb
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Casino\obj\Debug\Casino.dll
+C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\Casino\obj\Debug\Casino.pdb
