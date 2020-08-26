@@ -1,7 +1,0 @@
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\OperatorExercise\bin\Debug\OperatorExercise.exe.config
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\OperatorExercise\bin\Debug\OperatorExercise.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\OperatorExercise\bin\Debug\OperatorExercise.pdb
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\OperatorExercise\obj\Debug\OperatorExercise.csprojAssemblyReference.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\OperatorExercise\obj\Debug\OperatorExercise.csproj.CoreCompileInputs.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\OperatorExercise\obj\Debug\OperatorExercise.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\OperatorExercise\obj\Debug\OperatorExercise.pdb

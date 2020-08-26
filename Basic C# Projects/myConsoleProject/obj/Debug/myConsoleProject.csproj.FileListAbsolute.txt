@@ -1,7 +1,0 @@
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\myConsoleProject\bin\Debug\myConsoleProject.exe.config
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\myConsoleProject\bin\Debug\myConsoleProject.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\myConsoleProject\bin\Debug\myConsoleProject.pdb
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\myConsoleProject\obj\Debug\myConsoleProject.csprojAssemblyReference.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\myConsoleProject\obj\Debug\myConsoleProject.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\myConsoleProject\obj\Debug\myConsoleProject.pdb

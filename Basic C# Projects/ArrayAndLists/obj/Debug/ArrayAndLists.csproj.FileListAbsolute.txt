@@ -1,7 +1,0 @@
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\ArrayAndLists\bin\Debug\ArrayAndLists.exe.config
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\ArrayAndLists\bin\Debug\ArrayAndLists.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\ArrayAndLists\bin\Debug\ArrayAndLists.pdb
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\ArrayAndLists\obj\Debug\ArrayAndLists.csprojAssemblyReference.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\ArrayAndLists\obj\Debug\ArrayAndLists.csproj.CoreCompileInputs.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\ArrayAndLists\obj\Debug\ArrayAndLists.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\ArrayAndLists\obj\Debug\ArrayAndLists.pdb

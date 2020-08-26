@@ -1,7 +1,0 @@
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\classMethod\bin\Debug\classMethod.exe.config
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\classMethod\bin\Debug\classMethod.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\classMethod\bin\Debug\classMethod.pdb
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\classMethod\obj\Debug\classMethod.csprojAssemblyReference.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\classMethod\obj\Debug\classMethod.csproj.CoreCompileInputs.cache
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\classMethod\obj\Debug\classMethod.exe
-C:\Users\cphpi\Documents\GitHub\cSharp_Projects\Basic C# Projects\classMethod\obj\Debug\classMethod.pdb

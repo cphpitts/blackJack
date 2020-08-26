@@ -1,7 +1,0 @@
-C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\Exercise\bin\Debug\Exercise.exe.config
-C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\Exercise\bin\Debug\Exercise.exe
-C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\Exercise\bin\Debug\Exercise.pdb
-C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
-C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
-C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\Exercise\obj\Debug\Exercise.exe
-C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\Exercise\obj\Debug\Exercise.pdb
